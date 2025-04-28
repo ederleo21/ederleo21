@@ -16,14 +16,14 @@ Actualmente, busco crecer profesionalmente, aportar mis habilidades en el desarr
 
 # 📂 Proyectos 
   - ## GoLeo - Gestión de torneos futbolísticos
-    #### Repositorio frontend: https://github.com/ederleo21/goLeoApp
-    #### Repositorio backend: https://github.com/ederleo21/goLeo_backend
-    #### Live: https://go-leo.vercel.app/login
+    ##### Repositorio frontend: https://github.com/ederleo21/goLeoApp
+    ##### Repositorio backend: https://github.com/ederleo21/goLeo_backend
+    ##### Live: https://go-leo.vercel.app/login
 
   - ## DefenserAI - Detección de anomalías
-    Repositorio: https://github.com/ederleo21/DefenserAI---anomaly-detection
+    ##### Repositorio: https://github.com/ederleo21/DefenserAI---anomaly-detection
 
-# Portafolio Web
+# 🌐 Portafolio Web
   Revisa mi portafolio aquí: https://ederleo-portfolio.vercel.app/
     
 # 📊 GitHub Stats:
