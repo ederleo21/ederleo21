@@ -1,9 +1,9 @@
 # 💫 Sobre mí
 
 Soy un desarrollador web enfocado en frontend y backend, con conocimientos en React JS y Django REST Framework.
-Comprometido con el crecimiento constante, aplico mis conocimientos técnicos en el desarrollo de soluciones web modernas, priorizando la calidad, la eficiencia y el aprendizaje continuo.
+Me apasiona construir aplicaciones escalables, funcionales y orientadas a ofrecer una excelente experiencia de usuario.
 
-Actualmente, busco crecer profesionalmente, aportar mis habilidades en el desarrollo de aplicaciones web y seguir aprendiendo a través de proyectos reales.
+Comprometido con el crecimiento constante, aplico mis conocimientos técnicos en el desarrollo de soluciones web modernas, priorizando la calidad, la eficiencia y el aprendizaje continuo.
 
 
 # 🚀 Tecnologías y herramientas
